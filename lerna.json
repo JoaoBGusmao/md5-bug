@@ -1,0 +1,11 @@
+{
+  "version": "19.9.3",
+  "npmClient": "yarn",
+  "npmClientArgs": [
+    "--prefer-offline",
+    "--no-optional"
+  ],
+  "packages": [
+    "packages/*"
+  ]
+}

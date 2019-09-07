@@ -1,0 +1,5 @@
+.expo/
+node_modules/
+storyLoader.js
+test-reports/
+__diff_output__/

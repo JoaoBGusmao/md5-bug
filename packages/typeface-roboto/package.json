@@ -1,0 +1,11 @@
+{
+  "name": "@joaobgusmao/typeface-roboto",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joaobgusmao/md5-bug.git",
+    "directory": "packages/ui"
+  },
+  "private": true
+}

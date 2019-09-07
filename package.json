@@ -1,0 +1,22 @@
+{
+  "name": "root",
+  "version": "0.0.1",
+  "description": "N/A",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/joaobgusmao/md5-bug",
+  "bugs": "https://github.com/joaobgusmao/md5-bug/issues",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joaobgusmao/md5-bug.git"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  },
+  "private": true,
+  "dependencies": {
+  }
+}
